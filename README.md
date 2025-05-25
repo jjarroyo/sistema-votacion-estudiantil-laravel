@@ -64,7 +64,7 @@ Este proyecto es un sistema de votación diseñado para facilitar las elecciones
     * Navegación clara entre los diferentes módulos.
     * Diseño responsivo con Tailwind CSS y modo oscuro.
 
-    <img src="docs/images/Panel.png" alt="Inicio" width="700">
+    <img src="docs/images/panel.png" alt="Inicio" width="700">
 ---
 ## Requisitos Técnicos
 
